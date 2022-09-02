@@ -1,1 +1,1 @@
-Write a script that will play the StarWars IV episode in the terminal.
+Write a script that changes the owner of the file hello to the user betty.
